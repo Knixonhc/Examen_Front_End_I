@@ -1,3 +1,1 @@
-Integrantes: 
-Juliana López
-Kenji Herrera
+Desarrollo de una Homepage Responsive como ejercicio de Examen de la materia Front-End I de la carrera Certified Tech Developer de Digital House.
